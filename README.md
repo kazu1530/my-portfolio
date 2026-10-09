@@ -6,7 +6,7 @@
 AI（LLM）と対話しながら設計・実装を行いました。
 
 ## 画面イメージ / デモ
-- デモURL:https://kazu1530.github.io/journal.html
+- デモURL:https://kazu1530.github.io/my-portfolio/journal.html
 
 ## 主な機能
 - **記事の投稿・削除機能**: タイトルと本文を入力してリアルタイムにDOM生成
